@@ -1,0 +1,9 @@
+{
+  "sample_interval_seconds": 2,
+  "inbound_threshold_mbps": 100,
+  "outbound_threshold_mbps": 50,
+  "alert_cooldown_seconds": 60,
+  "webhook_url": "",
+  "log_file": "netguard-events.jsonl",
+  "interfaces": []
+}
